@@ -1,0 +1,8 @@
+git clone https://github.com/Raybrain/alx-pre_course.git
+git pull
+touch up_to_date.txt
+git add .
+git commit -m "update_to_date"
+git push origin main
+
+
